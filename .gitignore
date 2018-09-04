@@ -1,3 +1,4 @@
 #ignore th files
 
 *.js
+!app.js
