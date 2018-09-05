@@ -3,3 +3,4 @@
 *.js
 !app.js
 *.php
+*.html
