@@ -1,6 +1,9 @@
-one function - I have added a very imp function here.
+one function - I have added a very very imp function here.
 two function
 three function
 something 1
 
 added a chart function
+
+
+added a code for doing logout
