@@ -9,4 +9,7 @@ added a chart function
 added a code for doing logout
 
 some change 1
-some change 3
+
+
+some change 2
+>>>>>>> somebranch2
